@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ScienceQuiz</string>
+    <string name="question_one">Земля является крупнейшей планетой в Солнечной системе</string>
+    <string name="question_two">Химический символ кислорода О</string>
+    <string name="question_three">Собаки относятся к травоядным</string>
+    <string name="question_four">Высочайшая гора в мире Эверест</string>
+    <string name="question_five">Лягушки - теплокровные животные</string>
+    <string name="question_six">Самое быстрое сухопутное животное – это зебра</string>
+    <string name="question_seven">ДНК расшифровывается как дезоксирибонуклеиновая кислота</string>
+    <string name="bt_true">Правда</string>
+    <string name="bt_lie">Ложь</string>
+    <string name="button_next">Далее</string>
+    <string name="button_show_answer">Посмотреть ответ</string>
+    <string name="question_clarification">Вы точно хотите увидеть ответ?</string>
+    <string name="button_show">Показать</string>
+    <string name="toast_correct">Верно</string>
+    <string name="toast_incorrect">Неверно</string>
+    <string name="button_true">true</string>
+    <string name="button_false">false</string>
+    <string name="cheating">Вы списали</string>
+    <string name="cheating2">Вы списали неправильно</string>
+</resources>
